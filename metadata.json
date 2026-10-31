@@ -1,0 +1,6 @@
+{
+  "name": "Physics-Maths Lab",
+  "description": "Touch-driven interactive laboratory for Class 11-12 students preparing for JEE Advanced and NEET, covering Optics, Vectors & 3D Geometry, and Coordinate Geometry with Explore, Solve, and Practice modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
